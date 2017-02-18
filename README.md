@@ -71,13 +71,21 @@ pyuic5 mainwindow.ui > mainwindow_auto.py
 
 #Link
 
+[PiTFT][1]
+[OS Raspbian with PiTFT][2]
+[Auto Mount][3]
+[Mplayer][4]
+[mplayer doc][mplayer doc]
+[mplayer playlist][mplayer playlist]
+[autostart][autostart]
+[autostart without GUI][autostart without GUI]
+[PyQT GUI][PyQT GUI]
+
 [1]: https://learn.adafruit.com/adafruit-pitft-28-inch-resistive-touchscreen-display-raspberry-pi/downloads?view=all
 [2]: https://s3.amazonaws.com/adafruit-raspberry-pi/2016-10-18-pitft-28c.zip
 [3]: http://www.raspberrypi-spy.co.uk/2014/05/how-to-mount-a-usb-flash-disk-on-the-raspberry-pi/
 [4]: http://www.mplayerhq.hu/DOCS/HTML/fr/index.html
 
-
-#Others
 [mplayer doc]: http://stackoverflow.com/questions/28664813/play-m4a-in-python-script-with-mplayer
 [mplayer playlist]: https://zuttobenkyou.wordpress.com/2009/01/17/how-to-quickly-make-a-playlist-for-mplayer/
 [autostart]: http://blog.startingelectronics.com/auto-start-a-desktop-application-on-the-rapberry-pi/
