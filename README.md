@@ -72,13 +72,21 @@ pyuic5 mainwindow.ui > mainwindow_auto.py
 #Link
 
 [PiTFT][1]
+
 [OS Raspbian with PiTFT][2]
+
 [Auto Mount][3]
+
 [Mplayer][4]
+
 [mplayer doc][mplayer doc]
+
 [mplayer playlist][mplayer playlist]
+
 [autostart][autostart]
+
 [autostart without GUI][autostart without GUI]
+
 [PyQT GUI][PyQT GUI]
 
 [1]: https://learn.adafruit.com/adafruit-pitft-28-inch-resistive-touchscreen-display-raspberry-pi/downloads?view=all
