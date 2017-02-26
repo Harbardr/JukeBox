@@ -24,6 +24,11 @@ Install pyQT on the raspberry.
 
 Install mplayer2 on the raspberry. 
 
+### Modifiy alsa.conf
+
+
+[ALSA.CONF][ALSA.CONF]
+
 ### Modify autostart
 ```
 sudo nano /home/pi/.config/lxsession/LXDE-pi/autostart
@@ -79,6 +84,8 @@ pyuic5 mainwindow.ui > mainwindow_auto.py
 
 [Mplayer][4]
 
+[ALSA.CONF][ALSA.CONF]
+
 [mplayer doc][mplayer doc]
 
 [mplayer playlist][mplayer playlist]
@@ -99,3 +106,4 @@ pyuic5 mainwindow.ui > mainwindow_auto.py
 [autostart]: http://blog.startingelectronics.com/auto-start-a-desktop-application-on-the-rapberry-pi/
 [autostart without GUI]: http://alexba.in/blog/2013/01/07/use-your-raspberrypi-to-power-a-company-dashboard/
 [PyQT GUI]: https://www.baldengineer.com/raspberry-pi-gui-tutorial.html
+[ALSA.CONF]: http://raspberrypi.stackexchange.com/questions/39928/unable-to-set-default-input-and-output-audio-device-on-raspberry-jessie
