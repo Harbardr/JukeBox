@@ -74,8 +74,7 @@ I used Qt Creator on mac to create the interface.
 Use the command pyuic5 to transform the .ui to .py
 pyuic5 mainwindow.ui > mainwindow_auto.py
 
-##Link
-
+# Link
 
 [PiTFT][1]
 
